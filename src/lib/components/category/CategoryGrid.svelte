@@ -2,7 +2,7 @@
     
     import CATEGORIES from "$components/category/categories"
     import IconCart from "$icons/IconCart.svelte";
-    import Category from "./category.svelte";
+    import Category from "./Category.svelte";
     $inspect(CATEGORIES)
 </script>
 
