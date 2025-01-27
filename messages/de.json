@@ -1,0 +1,19 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "nav_home": "Home",
+    "nav_shop": "Einkaufskorb",
+    "nav_contact": "Kontakt",
+    "nav_search": "Suchen",
+
+    "login": "Mein Konto",
+
+    "category_1": "1",
+    "category_2": "2",
+    "category_3": "3",
+    "category_4": "4",
+    "category_5": "5",
+    "category_6": "6",
+
+    "new_products": "1231312",
+    "recommendation_products": "1231312"
+}

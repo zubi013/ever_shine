@@ -1,0 +1,10 @@
+@media only screen and not ((orientation: portrait) or (width <= 1000px)){
+    .only-mobile {
+        display: none;
+    }
+}
+@media only screen and ((orientation: portrait) or (width <= 1000px)) {
+    .only-desktop {
+        display: none;
+    }
+}

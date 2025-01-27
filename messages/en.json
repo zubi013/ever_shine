@@ -1,0 +1,17 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "nav_home": "Home",
+    "nav_shop": "Shop",
+    "nav_contact": "Contact",
+    "nav_search": "Search",
+
+    "category_1": "Manicure",
+    "category_2": "Nail Art",
+    "category_3": "Lashes",
+    "category_4": "Care",
+    "category_5": "Nail Tools",
+    "category_6": "Glitter Tattoos",
+
+    "new_products": "New products",
+    "recommendation_products": "Recommendations"
+}

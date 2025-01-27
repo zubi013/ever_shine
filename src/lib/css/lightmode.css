@@ -1,0 +1,18 @@
+.lightmode {
+    --clr-accent-1: #ff58a9;
+    
+    --clr-black-1: #000000;
+    --clr-white-1: #ffffff;
+    
+    --clr-gray-l: #ECECEC;
+    --clr-gray-d: #ABABAB;
+    
+    --clr-bg: white;
+    --clr-bg-nav: rgba(255, 255, 255);
+    --clr-bg-nav-transparent: rgba(255, 255, 255, 0.9);
+
+    --clr-text: black;
+    color: var(--clr-text);
+
+    --clr-logo: black;
+}

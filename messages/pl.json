@@ -1,0 +1,17 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "nav_home": "Strona główna",
+    "nav_shop": "Sklep",
+    "nav_contact": "Kontakt",
+    "nav_search": "Szukaj",
+
+    "category_1": "Manicure",
+    "category_2": "Nail Art",
+    "category_3": "Rzęsy",
+    "category_4": "Pielęgnacja ciała",
+    "category_5": "Przybory do paznokci",
+    "category_6": "Tatuaże Brokatowe",
+
+    "new_products": "Nowe Produkty",
+    "recommendation_products": "Polecamy"
+}

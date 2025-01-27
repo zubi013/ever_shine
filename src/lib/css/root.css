@@ -1,0 +1,12 @@
+
+:root {
+    font-family: 'Inter';
+    scrollbar-width: thin;
+
+    --scrollbar-w-fix: 15px;
+
+    --fw-light: 100;
+    --fw-regular: 300;
+    --fw-medium: 500;
+    --fw-bold: 700;
+}

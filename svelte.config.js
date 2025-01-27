@@ -17,5 +17,11 @@ export default {
     prerender: {
       entries: ['*'], // Prerenderuj wszystkie strony, jeśli używasz adapter-static
     },
+    alias: {
+      '$icons': './src/lib/assets/icons',
+      '$components': './src/lib/components',
+      '$routes': './src/routes',
+      '$assets': './src/lib/assets',
+    }
   },
 };

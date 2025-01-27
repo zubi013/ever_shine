@@ -1,0 +1,18 @@
+.darkmode {
+    --clr-accent-1: #f13c94;
+    
+    --clr-black-1: #000000;
+    --clr-white-1: #ffffff;
+    
+    --clr-gray-l: #ECECEC;
+    --clr-gray-d: #ABABAB;
+
+    --clr-bg: rgb(24, 24, 24);
+    --clr-bg-nav: rgba(51, 51, 51);
+    --clr-bg-nav-transparent: rgba(51, 51, 51, 0.9);
+
+    --clr-text: whitesmoke;
+    color: var(--clr-text);
+
+    --clr-logo: white;
+}

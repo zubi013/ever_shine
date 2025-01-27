@@ -1,0 +1,19 @@
+html {
+    zoom: 100%;
+}
+body {
+    margin: 0;
+    scrollbar-gutter: stable;
+    width: 100vw;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+button {
+    color: inherit;
+}
+select {
+    color: inherit;
+}
