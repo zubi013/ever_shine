@@ -29,7 +29,7 @@
     <ul>
         {#each docs_info as doc}
         <li>
-            <a href={`/docs${ lang }/${ doc.name }`} target="_blank">{ doc.title }</a>
+            <a href={`./../../docs/${ lang }/${ doc.name }`} target="_blank">{ doc.title }</a>
         </li>
         {/each}
     </ul>
