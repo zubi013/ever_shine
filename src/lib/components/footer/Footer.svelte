@@ -27,11 +27,11 @@
         {/each}
     </ul>
     <ul>
-        {#each docs_info as doc}
+        <!-- {#each docs_info as doc}
         <li>
             <a href={`./../../docs/${ lang }/${ doc.name }`} target="_blank">{ doc.title }</a>
         </li>
-        {/each}
+        {/each} -->
     </ul>
 
     <button on:click={backToTop}>
