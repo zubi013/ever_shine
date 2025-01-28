@@ -17,15 +17,15 @@
     const navs = [
         {
             title: m.nav_home(),
-            href: '/'
+            href: './'
         },
         {
             title: m.nav_shop(),
-            href: '/shop'
+            href: './shop'
         },
         {
             title: m.nav_contact(),
-            href: '/contact'
+            href: './contact'
         },
     ]
     let logo;
