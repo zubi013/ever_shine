@@ -22,16 +22,24 @@
     <ul>
         {#each social_media as { icon, href, name }}
         <li>
-            <a { href } target="_blank"><img src={`./../../icons/social/${icon}`} alt="" srcset="">{ name }</a>
+            <a { href } target="_blank">
+                <img src={`./../../icons/social/${icon}`} alt="" srcset="">{ name }
+            </a>
         </li>
         {/each}
     </ul>
     <ul>
-        <!-- {#each docs_info as doc}
+        {#each docs_info as doc}
         <li>
-            <a href={`./../../docs/${ lang }/${ doc.name }`} target="_blank">{ doc.title }</a>
+            <!-- <a
+            href={`./../../docs/${ lang }/${ doc.name }`}
+            target="_blank">{ doc.title }
+            </a> -->
+            <a href="/">
+            { doc.title }
+            </a>
         </li>
-        {/each} -->
+        {/each}
     </ul>
 
     <button on:click={backToTop}>
